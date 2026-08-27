@@ -93,7 +93,7 @@ Farm ↔ Vehicle ↔ Facility ↔ Farm
 
 ### 1. Automated Bio-Surveillance Node
 
-양계장에 설치되어 분변 채취부터 검사결과 생성까지 수행하는 현장 자동화 장치다.
+계분벨트식 산란계·종계 농장에 설치되어 분변 채취부터 검사결과 생성까지 수행하는 현장 자동화 장치다.
 
 #### 1) 설정된 Sampling Point에서 반복 소량채취
 
