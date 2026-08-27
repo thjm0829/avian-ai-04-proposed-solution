@@ -35,6 +35,8 @@
 
 공모전에서는 구현할 제품과 검증할 가설을 명확히 제시한다. 키트 호환성, 실제 분변 회수율, 진단성능과 고객효과는 공모전 수상 여부와 관계없이 전문기관·농장 실증을 거쳐야 확정한다.
 
+> **현재 제공범위:** 1 Sampling Point / 1 Analysis Unit, 상용 AIV 키트 자동화, Camera Reader, 시계열·자동재검·Dashboard까지를 기본제품으로 한다. Multi-point와 Epidemiological Risk Graph는 현재 고객 제안가격과 12개월 MVP 범위에 포함하지 않고 후속검증으로 분리한다.
+
 ## 4.1 서비스 개념
 
 본 서비스는 계분벨트식 산란계·종계 농장의 계분벨트 끝단에 설정한 Sampling Point에서 분변을 반복적으로 소량 채취하여 통합시료를 만들고, 이를 상용 AIV 신속항원키트로 자동 검사하는 농장형 초동경보·예찰보조 시스템이다.
@@ -258,7 +260,7 @@ Recommended Action
 - Risk Score와 Reason Codes
 - 권고 조치와 경보 이력
 
-### 3. Epidemiological Risk Graph
+### 3. 후속 확장: Epidemiological Risk Graph (현재 MVP 제외)
 
 장기적으로 농장 자체 검사 위험도와 축산차량·시설 이동관계를 결합하는 고도화 기술이다.
 
